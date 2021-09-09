@@ -1,0 +1,7 @@
+This here folder contains a project whose scope is to mimic the original Atari first released in nineteen seventy-two,
+by the aforementioned company(Atari). The games description goes as follows, for those unaware of this staple in the
+industry, and a steeping stone in the evolution of the game industry; the game is a player versus player competition
+style game, where each player controls a paddle, which they utilise so as to fit a ball, thus propulsating it thru the
+screen, if any of the players fails to parry the ball as it comes towards him or her, and thus it exits the screen, then
+the player responsible for the shoot earns a point; the player which earn the required number of points to win is
+reign victorious over the other. We easily seen that this here game is supposed to simulate a ping-pong or tennis game.
