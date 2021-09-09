@@ -1,0 +1,2 @@
+# Pong
+This here repository hosts a project whose purpose is to mimic the original Atari console game, Pong. The project is done by own volition, so as to sharpen my skills and understanding of both computer science and game development, and show that I boost skills of clean coding and a vast understanding of computer science basic and a more particular niche of it, that being game development and programming in Python. I didn't invent this game and thus I hold no rights over the core idea of it, all credit goes to the original creator: Allan Alcorn. 
